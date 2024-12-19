@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  status = 200
+  to = "https://8ballengraving.com/:splat"
+  force = true
